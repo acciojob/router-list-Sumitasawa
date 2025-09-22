@@ -2,9 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const items = [
-  { id: 1, name: "Item One" },
-  { id: 2, name: "Item Two" },
-  { id: 3, name: "Item Three"},
+  { id: 1, name: "Item 1" },
+  { id: 2, name: "Item 2" },
+  { id: 3, name: "Item 3"},
 ];
 
 function ItemList() {
