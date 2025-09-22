@@ -10,7 +10,7 @@ const items = [
 function ItemList() {
   return (
     <div>
-      <h2>Item List</h2>
+      <h1>Item List</h1>
       <ul>
         {items.map((item) => (
           <li key={item.id}>
